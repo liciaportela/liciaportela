@@ -1,16 +1,28 @@
-### Hi there 👋
+<img src="img/capagithub.png">
 
-<!--
-**liciaportela/liciaportela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<center>
+<table>
+    <tr>
+        <td><img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liciaportela&hide=html&layout=compact&theme=buefy" /></td>
+        <td><img width="495px" align="left" src="https://github-readme-stats.vercel.app/api?username=liciaportela&theme=buefy"/></td>
+    </tr>   
+</table>
+</center> 
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Olá! Seja bem vindo! :) :raising_hand:
+
+Tecnóloga em Sistemas para Internet e bacharel em Ciências Contábeis que por muitos anos seguiu na carreira administrativa e no atendimento ao público. Agora volto aos poucos para a tecnologia buscando aprender e me desenvolver cada vez mais no mundo Front-End.
+
+Apaixonada por livros :books:, mundo geek :space_invader:, tecnologia :computer: e café :coffee: :)
+
+---
+
+#### Contatos :mag_right:
+
+<a href="https://www.linkedin.com/in/liciaportela"><img src="img/linkdin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/liciaportela)
+
+<a href="mailto:liciaportela@gmail.com"><img src="img/mail.png" width="16"></img></a> [E-mail](mailto:liciaportela@gmail.com)
+
+<a href="https://liciaportela.github.io/liciaportela/"><img src="img/github.png" width="16"></img></a> [Portfólio](https://liciaportela.github.io/liciaportela/)
